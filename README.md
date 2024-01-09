@@ -26,7 +26,7 @@ Download Oracle VirtualBox: <br/>
 <br />
 <br />
 Download Windows 10:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 </p>
